@@ -1,0 +1,1 @@
+# ArcGIS.Pro.SketchCompletedEvent.NotFiring.Repro
